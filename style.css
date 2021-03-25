@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.navbar-brand {
+    position: relative;
+    left: 30px;
+}
+.navbar-nav {
+    position: relative;
+    left: 700px;
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotron {
+    padding-top: 2rem;
+    background-color: rgb(248, 199, 135);
+}
+#About{
+ background-color: rgb(255, 255, 255);
+ padding-top: 10px;
+}
+#project {
+    background-color: rgb(189, 213, 235);
+}
+#contact {
+    background-color:#00cba9 ;
+    min-height: 500px;
+}
